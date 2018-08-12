@@ -1,0 +1,8 @@
+Normal Base64 Challenge:
+TITLE: All About That Base
+DESCRIPTION: What's this mess?
+CIPHERTEXT: ZDRya3tyM20zbWIzcl9iNHMzNjRfeTRsbH1jMGRl
+FLAG: d4rk{r3m3mb3r_b4s364_y4ll}c0de
+
+A Little Complex (Base64 Decoded Thrice):
+V2tSU2VXRXpkSGxOTWpCNllsZEplbU5zT1dsT1NFMTZUbXBTWm1WVVVuTmlTREZxVFVkU2JBPT0=

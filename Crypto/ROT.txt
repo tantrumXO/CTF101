@@ -1,0 +1,9 @@
+TITLE: Caesar Salad
+DESCRIPTION: Can you toss Caesar's salad?
+CIPHERTEXT: q4ex{t1g_thq_p4rf4e}p0qr
+FLAG: d4rk{g1t_gud_c4es4r}c0de
+
+TITLE: Salad Upgrades
+DESCRIPTION: Sure, I could toss them all using just one shift. But am I gonna?
+CIPHERTEXT: e4uo{z01b_1e_f0j4l10i}z0ce
+FLAG: d4rk{th1s_1s_r0t4t10n}c0de (shift is the position of every letter)

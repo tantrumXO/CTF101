@@ -1,0 +1,4 @@
+TITLE: Hoaxes and Hexes
+DESCRIPTION: My friend sent me a meme and told me to 'look at it differently'. Tf?
+
+FLAG: d4rk{1m_d0wn_h3r3}c0de
